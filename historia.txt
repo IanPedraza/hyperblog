@@ -1,2 +1,2 @@
 Este es el primer archivo del curso de git
-Hoy hablaremos de si vida
+Hoy hablaremos de si vida y obra maestra
