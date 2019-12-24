@@ -1,2 +1,4 @@
-Este es el primer archivo del curso de git
+﻿Este es el primer archivo del curso de git
 Mañana nos efocaremos en su vida laboral
+
+Master 1
