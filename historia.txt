@@ -1,4 +1,4 @@
-﻿Este es el primer archivo del curso de git
+Este es el primer archivo del curso de git
 Mañana nos efocaremos en su vida laboral
 
 Experimento 1
@@ -6,3 +6,5 @@ Experimento 1
 Experimento 2
 
 Master 1Master 2
+
+MacOS
